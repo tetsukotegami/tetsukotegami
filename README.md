@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tetsukotegami (Japanese for "railway girl" and "letter")
+- 👋 Hi, I’m @tetsukotegami! (Japanese for "railway girl" and "letter")
 - ✨ I’m interested in 1) digital humanities 2) data science 3) information science
 - 🌱 I’m currently learning Python, Ruby, R, and the Japanese language (I want to be able to use Japanese unicode for kanji, and Japanese literary texts). 
 - 💞️ I’m looking to collaborate on open source digital humanities and data science projects. 
